@@ -12,7 +12,7 @@ Simple windows application to simulate key presses until stopped. Can simulate m
     dotnet build
     ```
 
-2. Run the executable: `KeyPresser.exe` (or if you compiled yourself, `bin/Debug/../KeyPresser.exe`)
+2. Run the executable: `Release/KeyPresser.exe` (or if you compiled yourself, `bin/Debug/../KeyPresser.exe`)
 
 ## How to Use
 
